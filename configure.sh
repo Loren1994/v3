@@ -23,7 +23,7 @@ cat << EOF > /usr/local/etc/xray/config.json
       "settings": {
         "clients": [
           {
-            "id": "a1a1e586-7f1a-4510-8c09-b5b18b6116f4",
+            "id": "8016d65d-a11b-4cca-bfbb-02c93e01fa17",
             "alterId": 0
           }
         ],
@@ -32,7 +32,7 @@ cat << EOF > /usr/local/etc/xray/config.json
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/changxl"
+          "path": "/fast"
         }
       }
     }
